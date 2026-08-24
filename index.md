@@ -74,7 +74,7 @@ CompTIA Security+ certified.
 
 ## Professional Background
 
-Before transitioning into cybersecurity and IT, I built experience in technical and high-pressure environments including commercial pipefitting, construction, rig operations, commercial diving, and military service.
+Before transitioning into cybersecurity and IT, I built experience in technical and high-pressure environments including underwater welding/commercial diving, commercial pipefitting, construction, rig operations, and military service.
 
 This background developed skills that transfer directly into technology roles, including troubleshooting, technical documentation, safety and compliance, teamwork, leadership, attention to detail, and working under pressure.
 
