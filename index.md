@@ -68,7 +68,6 @@ Relevant areas of study include:
 
 ## Certifications
 
-### CompTIA Security+
 CompTIA Security+ certified.
 
 ---
