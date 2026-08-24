@@ -2,21 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Rez Van Horn
 
-Cybersecurity student and aspiring IT professional based in Phoenix, Arizona. I am currently building hands-on experience in cybersecurity, networking, Python, Linux, and security tools while pursuing my B.S. in Cybersecurity.
+CompTIA Security+ certified cybersecurity student with hands-on experience in Linux, networking, Python, traffic analysis, and security tools. I am currently pursuing a B.S. in Cybersecurity while continuing to build practical experience through hands-on labs, technical coursework, and cybersecurity projects.
 
-I hold the CompTIA Security+ certification and am continuing to develop practical skills through cybersecurity labs, technical coursework, and hands-on projects.
-
-My background includes technical trades, field operations, leadership, and working in high-pressure environments. I am currently seeking entry-level opportunities in cybersecurity, IT support, data center operations, networking, and security compliance where I can continue developing my technical skills.
+My background includes technical trades, field operations, leadership, and working in high-pressure environments. I am currently seeking entry-level opportunities in cybersecurity, IT support, data center operations, networking, and security compliance where I can apply my technical skills and continue growing in the field.
 
 ---
 
@@ -108,6 +98,8 @@ I am currently focused on developing practical cybersecurity skills through hand
 ---
 
 ## Contact
+
+email: justrez912@gmail.com
 
 **GitHub:** [justrez912-ai](https://github.com/justrez912-ai)
 
