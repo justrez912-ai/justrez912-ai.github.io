@@ -10,114 +10,105 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Rez Van Horn
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Cybersecurity student and aspiring IT professional based in Phoenix, Arizona. I am currently building hands-on experience in cybersecurity, networking, Python, Linux, and security tools while pursuing my B.S. in Cybersecurity.
 
-## Header 2
+I hold the CompTIA Security+ certification and am continuing to develop practical skills through cybersecurity labs, technical coursework, and hands-on projects.
 
-> This is a blockquote following a header.
+My background includes technical trades, field operations, leadership, and working in high-pressure environments. I am currently seeking entry-level opportunities in cybersecurity, IT support, data center operations, networking, and security compliance where I can continue developing my technical skills.
+
+---
+
+## Technical Skills
+
+> Networking Fundamentals
+> Wireshark
+> Linux
+> Python
+> Nmap
+> TCP/IP
+> SSH
+> RDP
+> Active Directory Fundamentals
+> PowerShell Fundamentals
+> Security Monitoring
+> Vulnerability Assessment
+> SIEM Fundamentals
+> NIST Cybersecurity Framework
+> NIST Risk Management Framework
+> Git & GitHub
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Cybersecurity Labs & Projects
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Network Traffic Analysis
+Used Wireshark and TCPDump to capture and analyze network traffic, including DNS, HTTP, ICMP, ARP, and TCP communications.
 
-#### Header 4
+### Network Scanning
+Used Nmap to perform host discovery, port scanning, service identification, and basic network reconnaissance in lab environments.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Linux Security Labs
+Worked with Linux systems using command-line tools, file permissions, SSH, network utilities, and security-focused configuration.
 
-##### Header 5
+### Python for Cybersecurity
+Developing Python skills through scripts involving loops, functions, data processing, automation, and problem solving.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Education
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Bachelor of Science in Cybersecurity
+Currently pursuing a B.S. in Cybersecurity.
 
-### There's a horizontal rule below this.
+Relevant areas of study include:
 
-* * *
+- Network Security
+- Cybersecurity Fundamentals
+- Application Security
+- Risk Management
+- Security Governance
+- Python Programming
+- Linux
+- Data Protection
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Certifications
 
-### And an ordered list:
+### CompTIA Security+
+CompTIA Security+ certified.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+---
 
-### And a nested list:
+## Professional Background
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Before transitioning into cybersecurity and IT, I built experience in technical and high-pressure environments including commercial pipefitting, construction, rig operations, commercial diving, and military service.
 
-### Small image
+This background developed skills that transfer directly into technology roles, including troubleshooting, technical documentation, safety and compliance, teamwork, leadership, attention to detail, and working under pressure.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+## Current Focus
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am currently focused on developing practical cybersecurity skills through hands-on labs and projects involving:
 
+- Network reconnaissance
+- Traffic analysis
+- Linux
+- Python
+- Security monitoring
+- Vulnerability assessment
+- Active Directory
+- Incident response fundamentals
+- Penetration testing fundamentals
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Contact
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**GitHub:** [justrez912-ai](https://github.com/justrez912-ai)
 
-```
-The final element.
-```
+**Location:** Phoenix, Arizona
